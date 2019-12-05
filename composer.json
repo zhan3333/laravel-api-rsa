@@ -1,6 +1,6 @@
 {
     "name": "zhan3333/api-rsa",
-    "description": "Laravel 甲签验签包",
+    "description": "Laravel 加签验签包",
     "authors": [
         {
             "name": "zhan",
