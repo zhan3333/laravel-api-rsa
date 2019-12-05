@@ -1,0 +1,21 @@
+{
+    "name": "zhan3333/api-rsa",
+    "description": "Laravel 甲签验签包",
+    "authors": [
+        {
+            "name": "zhan",
+            "email": "grianchan@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zhan3333\\ApiRsa\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zhan3333\\ApiRsa\\Test": "tests/"
+        }
+    }
+}
