@@ -76,7 +76,6 @@ class ApiRSA
             $buildStrArr[] = "$k=$v";
         }
         $buildStr = implode('&', $buildStrArr);
-        dump($buildStr);
         $search = [
             '-----BEGIN PUBLIC KEY-----',
             '-----END PUBLIC KEY-----',
